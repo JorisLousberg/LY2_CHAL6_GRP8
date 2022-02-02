@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(66, 196, 120);
+    overflow-x: hidden;
+    margin: 0;
+}
+
+.mainbody {
+    top: 0 ;
+    left: 0;
+    width: 100vw;
+    height: fit-content;
+    background-color: transparent;
+    
+}
+
+.topdiv {
+    top: 0 ;
+    left: 0;
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(0, 63, 35);
+}
+
+.middiv {
+    float: right;
+    width: 100vw;
+    min-height: 80vh;
+    max-height: fit-content;
+    background-color: transparent;
+}
+
+/*.contentbox{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    background-color: transparent;
+}*/
+
+.lowerdiv {
+    float: right;
+    width: 100vw;
+    height: 10vh; 
+    background-color: rgb(0, 63, 35);
+}
+
+
