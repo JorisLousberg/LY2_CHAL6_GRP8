@@ -1,5 +1,3 @@
-
-
 <?php 
  /*echo('hallo het is Even');
  echo('lol');*/
@@ -27,5 +25,4 @@ layout (navbar, gameblock (no instructions currently))
         
     </div>
  </body>
- </html>
-
+ </html
