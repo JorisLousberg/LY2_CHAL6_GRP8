@@ -3,3 +3,4 @@ layout (navbar, title, banner, gameblock (photo + buttun), about us block(photo 
 
 <?php 
  echo('hallo het is Even');
+ echo('lol');
