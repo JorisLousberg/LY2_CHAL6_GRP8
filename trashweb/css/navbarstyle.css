@@ -1,0 +1,72 @@
+a {
+    text-decoration: none;
+    color: #8ebf42;
+}
+
+.navtext2{
+    color: #8ebf42;
+}
+
+.menu_btn{
+    height: 80%;
+    width: fit-content;
+    margin-top: 0.4%;
+    padding-left: 2% ;
+    padding-right: 2% ;
+    margin-left: 1vw ; 
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: 2vw;
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+.btn1{
+    border-radius: 3.5%;
+    float: left;
+}
+
+.btn2{
+    border-radius: 3.5%;
+    float: right;
+}
+.menu_btn:hover{
+    background-color: rgb(66, 196, 120);;
+}
+
+.menu_img{
+    background-image: url(../resources/trashnation_inc_logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90%;
+    width: 2.1vw;
+    margin-top: 0.2%;
+    float: left;
+    padding-right: 2% ;
+    margin-left: 1vw ;
+
+}
+
+.menu_brdr{
+    height: 80%;
+    width: fit-content;
+    margin-top: 0.4%;
+    float: right;
+    margin-left: 1vw ;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    -webkit-user-select: none;
+    user-select: none;
+    color: #8ebf42;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2vw;
+    
+}
+
+.navtext:hover{
+    color: #000;
+}
