@@ -51,6 +51,31 @@ p{
 #canvas{
     margin-left:15%;
     background-image: url(../images/cloudy_light_blue.png) ; 
+    animation-name: rotate;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    -webkit-animation-name: rotate;
+    -webkit-animation-duration: 28s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+@keyframes rotate {
+  from {
+    background-position: 0px 0px;
+  }
+  to {
+    background-position: 30vw 0px;
+  }
+}
+@-webkit-keyframes rotate {
+  from {
+    background-position: 0px 0px;
+  }
+  to {
+    background-position: 30vw 0px;
+  }
 }
 
 /*linear-gradient(#80BCA3, #B6D8C0)*/

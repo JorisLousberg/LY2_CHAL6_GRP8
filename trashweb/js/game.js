@@ -17,7 +17,7 @@ var canvas = document.getElementById("canvas"),
         velY: 0,
         jumping: false,
         grounded: false,
-        color:'#E6AC27'
+        color:'#ff0000'
     },
     keys = [],
     friction = 0.8,
