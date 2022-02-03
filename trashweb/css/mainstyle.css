@@ -117,7 +117,7 @@ body{
     position: absolute;
     left: 20vw;
     top: 1vh;
-    background-color: white;
+    background-color: transparent;
 }
 
 .boxbannerimg {
@@ -137,7 +137,7 @@ body{
     position: absolute;
     left: 22vw;
     bottom: 1vh;
-    background-color: black;
+    background-color: transparent;
 }
 
 .boxaboutusimg {
@@ -157,7 +157,7 @@ body{
     position: absolute;
     right: 22vw;
     bottom: 1vh;
-    background-color: black;
+    background-color: transparent;
 }
 
 .boxgameimg {
