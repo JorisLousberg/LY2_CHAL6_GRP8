@@ -234,7 +234,7 @@ function update() {
         if(powerup[j].effect==='gravity'){
           gravity= 0.4;//decrease gravity
           player.speed = 4;
-          player.color = 'white';
+          player.color = '#ff0000';
         }
         else if (powerup[j].effect==='shrink'){
           player.width= 10;
