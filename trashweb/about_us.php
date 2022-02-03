@@ -1,13 +1,14 @@
  <!DOCTYPE html>
  <html lang="en">
  <head>
-     <meta charset="UTF-8">
-     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="./css/mainstyle.css">
-     <link rel="stylesheet" href="css/navbarstyle.css?v=6">
-     <link rel="stylesheet" href="css/aboutStyle.css">
-     <title>Document</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/mainstyle.css">
+    <link rel="stylesheet" href="css/navbarstyle.css?v=6">
+    <link rel="stylesheet" href="css/aboutStyle.css">
+    <link rel="stylesheet" href="tempmaintest.css">
+    <title>Document</title>
  </head>
  <body>
  <div class="mainbody">
@@ -23,7 +24,7 @@
 
             <div id='infoBlock'>
                 <div id='infoContent'>
-                    <p id='infoPara'>
+                    <div id='infoPara'><p >
                     Leerlingen laten te veel afval liggen, dit gebeurd zowel binnen in het gebouw als buiten op het schoolterrein. 
                     Een reden hiervan is dat de afvalbakken die nu in gebruik zijn eigenlijk niet goed zijn, 
                     vanwege het feit dat ze zo open zijn proberen veel leerlingen het gewoon erin te ‘’gooien’’.                                   
@@ -32,17 +33,34 @@
                     hard waait al het afval uit de afvalbakken waait en over de grond verspreid.                                                                 Dat is minder gunstig voor zowel het personeel als voor fatsoenlijke afvalscheiding. 
                     Daarover gesproken: de afvalscheiding moet verbeterd worden vergeleken met wat het nu is,
                     want nu doen zowel leerlingen als personeel alles in dezelfde prullenbakken proppen.
-                    </p>
+                    </p></div>
+                    
                 </div>
             </div>
 
             <div id='donatieBlock'>
                 <div id='donatieContent'>
                     <div id='donatieInfo'>
-                        <h2>Donatie</h2>
-                        <p>Om onze doel te behalen hebben we hulp nodig. Voor donatie klik doneren</p>
+                        <h2>Donatie</h2> 
+                        <p>Via donaties zijn wij van plan om problemen rond ons op te lossen of te verlichten,
+                            deze donaties worden via directe donaties of via reclame op de game page verzameld.</p>
+                        <p>de donaties worden voor onderstaande doelen gebruikt. 
+                            om te doneren klik op doneren</p>
+                            
                     </div>
-                    <div id='donantieBtn'><div class='donbtn'>doneren</div></div>
+                    <div id='donatieInfo2'>
+                        <h2>donatie teller</h2> <p><mark class='disclaimer'>dit gedeelte bevat geen echte donaties</mark></p> 
+                        <p>€658</p>
+                        
+                            
+                    </div>
+                    <div id='donantieBtn'>
+                        <div class='donbtn'> 
+                            <div id='donbtntext'>
+                                <p>doneren</p>
+                            </div>
+                        </div>
+                    </div>
                     <div id='donatieGoals'>
                         <div class='donatiegoal'> 
                             <h2>Schoone buurt</h2>

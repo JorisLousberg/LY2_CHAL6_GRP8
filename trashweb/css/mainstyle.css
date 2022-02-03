@@ -42,3 +42,9 @@ body{
     height: 5vh; 
     background-color: rgb(0, 63, 35);
 }
+
+mark{
+    color: red;
+    font-size: 1vw;
+    background-color: transparent;
+}
