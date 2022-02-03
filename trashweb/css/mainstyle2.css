@@ -1,46 +1,27 @@
 body{
-    background-color: rgb(66, 196, 120);
-    overflow-x: hidden;
-    margin: 0;
+ margin:0px;
+ padding:0px;
 }
 
-.mainbody {
-    top: 0 ;
-    left: 0;
-    width: 100vw;
-    height: fit-content;
-    background-color: transparent;
-    
+#gameBox{
+    height:500px;
+    width:60%;
+    background-color:gray;
+    margin-left:48vh;
+    margin-top:2%;
+    border-radius:7%;
+    box-shadow:5px;
 }
 
-.topdiv {
-    top: 0 ;
-    left: 0;
-    width: 100vw;
-    height: 10vh;
-    background-color: rgb(0, 63, 35);
+#speler{
+    height:80px;
+    width:50px;
+    background-color:red;
 }
 
-.middiv {
-    float: right;
-    width: 100vw;
-    min-height: 80vh;
-    max-height: fit-content;
-    background-color: transparent;
+#flesje{
+    height:40px;
+    width:50px;
+    background-color:white;
 }
-
-/*.contentbox{
-    height: 100%;
-    width: 80%;
-    margin: auto;
-    background-color: transparent;
-}
-
-.lowerdiv {
-    float: right;
-    width: 100vw;
-    height: 10vh; 
-    background-color: rgb(0, 63, 35);
-}*/
-
 

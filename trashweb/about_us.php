@@ -1,10 +1,3 @@
-
-
-
-<?php 
- /*echo('hallo het is Even');
- echo('lol');*/
-?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
@@ -45,9 +38,33 @@
 
             <div id='donatieBlock'>
                 <div id='donatieContent'>
-                    <div id='donatieInfo'>jklklkl</div>
-                    <div id='donantieBtn'>llhlj <div class='donbtn'>donate</div> </div>
-                    <div id='donatieGoals'>hljl</div>
+                    <div id='donatieInfo'>
+                        <h2>Donatie</h2>
+                        <p>Om onze doel te behalen hebben we hulp nodig. Voor donatie klik doneren</p>
+                    </div>
+                    <div id='donantieBtn'><div class='donbtn'>doneren</div></div>
+                    <div id='donatieGoals'>
+                        <div class='donatiegoal'> 
+                            <h2>Schoone buurt</h2>
+                            <div class='donatiedesc'>
+                                <p>Als er schoone buurt is. gezondheid gaat om hoog</p>
+                            </div>
+                            <div class='donatie_count'>
+                               € 1000
+                              <div class='backgroud_count_experimental'></div>
+                            </div>
+                        </div>
+                        <div class='donatiegoal'> 
+                            <h2>weg met zwerf afval</h2>
+                            <div class='donatiedesc'>
+                                <p>Het oplossing van zwerf afval is sammenwerking. 
+                                  Iedereen moet ervoor zorgen dat zijn/haar afval in de afvalbak terecht kom.</p>
+                            </div>
+                            <div class='donatie_count'>
+                                € 1000
+                                <div class='backgroud_count_experimental'></div></div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
