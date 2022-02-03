@@ -47,7 +47,14 @@
                 <div id='donatieContent'>
                     <div id='donatieInfo'>jklklkl</div>
                     <div id='donantieBtn'>llhlj <div class='donbtn'>donate</div> </div>
-                    <div id='donatieGoals'>hljl</div>
+                    <div id='donatieGoals'>
+                        <div class='donatiegoal'> 
+                            <div class='donatiedesc'></div>
+                            <div class='donatie_count'>
+
+                                <div class='backgroud_count_experimental'></div></div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
