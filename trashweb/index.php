@@ -11,24 +11,21 @@
      <title>Document</title>
  </head>
  <body>
- <div class="mainbody">
-        <nav>
-            <?php require_once("includes/menu.inc.php") ?>
-        </nav>
-        <div class="middiv">
-            
-        <div class="divboxes">
-            <div class="box1"></div>
-            <div class="box2"></div>
-            <div class="box3"></div>
-            <div class="box4"></div>
-            <div class="box5"></div>
-            <div class="box6"></div>
-        </div>
-        <!--MAIN LAYOUT-1: layout (navbar, title, banner, gameblock (photo + buttun), about us block(photo + button)) -->
-        </div>
-        </div>
+    <div class="mainbody">
+            <nav>
+                <?php require_once("includes/menu.inc.php") ?>
+            </nav>
+            <div class="middiv">
+                <div class="divboxes">
+                    <div class="box1"></div>
+                    <div class="box2"></div>
+                    <div class="box3"></div>
+                    <div class="box4"></div>
+                    <div class="box5"></div>
+                    <div class="box6"></div>
+                </div>
+            <!--MAIN LAYOUT-1: layout (navbar, title, banner, gameblock (photo + buttun), about us block(photo + button)) -->
         <div class="lowerdiv"></div>
     </div>
  </body>
- </html>
+ </html> 
