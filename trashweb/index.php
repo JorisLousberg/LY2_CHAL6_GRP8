@@ -23,10 +23,19 @@
                     <div class="box6"></div>
                     <div class="box7"></div>
                     <div class="box8"></div>
+                    <div class="boxbanner">
+                        <div class="boxbannerimg"></div> 
+                    </div>
+                    <div class="boxaboutus">
+                        <div class="boxaboutusimg"></div>
+                    </div>
+                    <div class="boxgame">
+                        <div class="boxgameimg"></div>
+                    </div>
                 </div>
             <!--MAIN LAYOUT-1: layout (navbar, title, banner, gameblock (photo + buttun), about us block(photo + button)) -->
     </div>
         <div class="lowerdiv"></div>
     </div>
  </body>
- </html>   
+ </html>    
