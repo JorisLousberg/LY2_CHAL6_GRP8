@@ -28,7 +28,7 @@ var canvas = document.getElementById("canvas"),
 powerup.push({
         x: 810,
         y: 250,
-        width: 20,
+        width: 25,
         height: 40,
         color: '#5a5a5a',
         effect: 'shrink'
@@ -36,7 +36,7 @@ powerup.push({
 powerup.push({
         x: 400,
         y: 150,
-        width: 20,
+        width: 25,
         height: 40,
         color: '#5a5a5a',
         effect: 'gravity'
