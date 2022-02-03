@@ -45,8 +45,11 @@
 
             <div id='donatieBlock'>
                 <div id='donatieContent'>
-                    <div id='donatieInfo'>jklklkl</div>
-                    <div id='donantieBtn'>llhlj <div class='donbtn'>donate</div> </div>
+                    <div id='donatieInfo'>
+                        <h2>Donatie</h2>
+                        <p>Om onze doel te behalen hebben we hulp nodig. Voor donatie klik doneren</p>
+                    </div>
+                    <div id='donantieBtn'><div class='donbtn'>doneren</div></div>
                     <div id='donatieGoals'>
                         <div class='donatiegoal'> 
                             <div class='donatiedesc'></div>
