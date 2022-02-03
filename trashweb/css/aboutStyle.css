@@ -60,6 +60,10 @@ body{
     float:left;
     
 }
+
+.donbtn{ 
+    background-color: rgb(54, 200, 54);
+}
 #donatieGoals{
     background-color:rgb(76, 226, 76);
     width:50vw;
