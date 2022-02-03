@@ -27,10 +27,10 @@
                         <div class="boxbannerimg"></div> 
                     </div>
                     <div class="boxaboutus">
-                        <div class="boxaboutusimg"></div>
+                        <div class="boxaboutusimg" onClick="location.href='./about_us.php'"></div>
                     </div>
                     <div class="boxgame">
-                        <div class="boxgameimg"></div>
+                        <div class="boxgameimg" onClick="location.href='./trash_masterz.php'"></div>
                     </div>
                 </div>
             <!--MAIN LAYOUT-1: layout (navbar, title, banner, gameblock (photo + buttun), about us block(photo + button)) -->
