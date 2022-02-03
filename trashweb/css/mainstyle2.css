@@ -3,28 +3,6 @@ body{
  padding:0px;
 }
 
-#gameBox{
-    height:500px;
-    width:60%;
-    background-color:gray;
-    margin-left:48vh;
-    margin-top:2%;
-    border-radius:7%;
-    box-shadow:5px;
-}
-
-#speler{
-    height:80px;
-    width:50px;
-    background-color:red;
-}
-
-#flesje{
-    height:40px;
-    width:50px;
-    background-color:white;
-}
-
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 
 body{
