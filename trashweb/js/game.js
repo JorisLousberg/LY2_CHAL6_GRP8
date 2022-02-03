@@ -24,29 +24,31 @@ var canvas = document.getElementById("canvas"),
     gravity = 0.4,
     boxes = [],
     powerup = [];  
-
+ //--------------------------------------
 powerup.push({
         x: 810,
         y: 250,
         width: 20,
-        height: 20,
-        color: '#BF4D28',
+        height: 40,
+        color: '#5a5a5a',
         effect: 'shrink'
     });
 powerup.push({
         x: 400,
         y: 150,
         width: 20,
-        height: 20,
-        color: '#BF4D28',
+        height: 40,
+        color: '#5a5a5a',
         effect: 'gravity'
     });
+
+    //--------------------------------------
 powerup.push({
         x: -15,
         y: 88,
         width: 20,
         height: 20,
-        color: '#222',
+        color: '#800080',
         effect: 'tele',
   			rotate: 20,
         px: 20,//where they get teleported
@@ -58,7 +60,7 @@ powerup.push({
         y: 365,
         width: 20,
         height: 20,
-        color: '#2A5D77',
+        color: '#800080',
         effect: 'win',
         stay: true
     });
@@ -219,7 +221,8 @@ function update() {
       var cx = powerup[j].x + 0.5 * powerup[j].width,   // x of shape center
       cy = powerup[j].y + 0.5 * powerup[j].height; //y of shape center
       ctx.translate(cx, cy);  //translate to center of shape
-      ctx.rotate( (Math.PI / 180) * 45);//rotate 25 degrees.
+      ctx.rotate( (Math.PI / 180) * 0);//rotate 25 degrees.
+      
       if(powerup[j].effect  === 'tele'){
         ctx.rotate( (Math.PI / 180) * powerup[j].rotate);//rotate 25 degrees.
         powerup[j].rotate = (Math.PI / 180) * powerup[j].rotate;
@@ -310,3 +313,4 @@ document.body.addEventListener("keyup", function (e) {
 window.addEventListener("load", function () {
     update();
 });
+
