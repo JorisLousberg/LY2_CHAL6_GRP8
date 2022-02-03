@@ -63,7 +63,7 @@
                     </div>
                     <div id='donatieGoals'>
                         <div class='donatiegoal'> 
-                            <h2>Schoone buurt</h2>
+                            <h2>betere afval bakken op school</h2>
                             <div class='donatiedesc'>
                                 <p>betere vuilnisbakken op het vistacollege</p>
                             </div>
