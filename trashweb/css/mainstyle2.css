@@ -53,11 +53,11 @@ p{
     background-size: 80vw;
     background-image: url(../images/cloudy_light_blue.png) ; 
     animation-name: rotate;
-    animation-duration: 12s;
+    animation-duration: 36s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
     -webkit-animation-name: rotate;
-    -webkit-animation-duration: 12s;
+    -webkit-animation-duration: 36s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
 }
