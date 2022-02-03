@@ -1,8 +1,4 @@
-<?php 
- /*echo('hallo het is Even');
- echo('lol');*/
-?>
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="en">
  <head>
      <meta charset="UTF-8">
