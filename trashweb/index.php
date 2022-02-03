@@ -4,7 +4,7 @@
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="./css/mainstyle.css">
+     <link rel="stylesheet" href="./css/home.css">
      <link rel="stylesheet" href="css/navbarstyle.css?v=6">
      <script src="./js/nav.functions.js"></script>
     <script src="./js/index.functions.js"></script>
