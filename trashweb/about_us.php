@@ -65,7 +65,7 @@
                         <div class='donatiegoal'> 
                             <h2>Schoone buurt</h2>
                             <div class='donatiedesc'>
-                                <p>Als er schoone buurt is. gezondheid gaat om hoog</p>
+                                <p>betere vuilnisbakken op het vistacollege</p>
                             </div>
                             <div class='donatie_count'>
                                € 1000
@@ -75,11 +75,11 @@
                         <div class='donatiegoal'> 
                             <h2>weg met zwerf afval</h2>
                             <div class='donatiedesc'>
-                                <p>Het oplossing van zwerf afval is sammenwerking. 
+                                <p>posters om studenten te motiveren geen afval op de grond te gooien. 
                                   Iedereen moet ervoor zorgen dat zijn/haar afval in de afvalbak terecht kom.</p>
                             </div>
                             <div class='donatie_count'>
-                                € 1000
+                                € 300
                                 <div class='backgroud_count_experimental'></div></div>
                         </div>
                     </div>
